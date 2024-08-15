@@ -20,6 +20,6 @@
 ## ❤️ You can help me
 <div align="center">
   
-### Loved the project? Spread the love by giving it a ⭐!
+### Show some ❤️ by starring some of the repositories!
 
 </div>
